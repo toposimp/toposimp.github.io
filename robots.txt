@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://toposimp.github.io/sitemap.html.gz
+Sitemap: https://toposimp.github.io/app/sitemap.html.gz
+Sitemap: https://toposimp.github.io/assets/sitemap.html.gz
+Sitemap: https://toposimp.github.io/css/sitemap.html.gz
+Sitemap: https://toposimp.github.io/includes/sitemap.html.gz
+Sitemap: https://toposimp.github.io/item/sitemap.html.gz
+Sitemap: https://toposimp.github.io/src/sitemap.html.gz
